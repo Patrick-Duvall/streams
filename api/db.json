@@ -9,24 +9,6 @@
       "title": "My second",
       "description": "a better stream",
       "id": 2
-    },
-    {
-      "title": "Patrick Duvall",
-      "description": "hopefully doesn't kill UID",
-      "userId": "118386703643990394980",
-      "id": 5
-    },
-    {
-      "title": "Patrick Duvall",
-      "description": "a good stream",
-      "userId": "118386703643990394980",
-      "id": 6
-    },
-    {
-      "title": "22",
-      "description": "22",
-      "userId": "118386703643990394980",
-      "id": 7
     }
   ]
 }
