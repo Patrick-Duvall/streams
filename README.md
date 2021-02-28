@@ -1,6 +1,6 @@
 # Streams 
 
-Streams is a Restful Streaming application, similar to Twitch built based (Steven Girder's React Class)[https://www.udemy.com/course/react-redux/]. Users can login with a client side google Oauth flow and have full crud functionality for a Streams resource. The project consists of 3 directories: apis -- a simple json-server mocking a backend, rtmpserver -- a server that creates streams from Open Broadcaster Software(OBS), and client -- the front-end code to be viewed in a web browser.
+Streams is a Restful Streaming application, similar to Twitch built based on [Steven Girder's React Class](https://www.udemy.com/course/react-redux/). Users can login with a client side google Oauth flow and have full crud functionality for a Streams resource. The project consists of 3 directories: apis -- a simple json-server mocking a backend, rtmpserver -- a server that creates streams from Open Broadcaster Software(OBS), and client -- the front-end code to be viewed in a web browser.
 
 ### Learning goals
 
